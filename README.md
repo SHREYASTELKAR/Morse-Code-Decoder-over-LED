@@ -1,1 +1,1 @@
-# Morse-Code-Decoder-over-LED
+This contains the C and Python code for the photosensor and led. 
